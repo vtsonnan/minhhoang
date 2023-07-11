@@ -3,3 +3,27 @@ Tất cả các bài tập làm được lưu ở đây để mình kiểm tra
 https://zentalk.vn/threads/hoc-hoi-huong-dan-su-dung-github-toan-tap-tu-a-z.1794/
 đây là video con cần phải xem qua nhé
 https://www.youtube.com/watch?v=1JuYQgpbrW0
+
+
+Web thì có hai loại chính:
+1. Web tĩnh: HTML, angularJS, ReactJS
+2. Web động: Nội dung thay đổi 
+- CSDL: MySQL, MS SQL, Oracle, POGERSQL
+Khóa PHP cơ bản: nhúm HTML với mã nguồn PHP (https://www.w3schools.com/php/)
+- CSDL biết các câu lệnh SQL: create, drop...
+3. Web truy xuất trực tiếp DB 
+4. Các API 
+5. CSS: https://www.tutorialspoint.com/css/index.htm
+
+HỌC PHP (WEB SAU NI LUÔN)
+Front - end: HTML, AngularJS,...
+Back - end: Java, PHP, ASP.NET (microsoft), Python, Perl...
+
+Tuần 11/7 con phải hoàn thành: 
+- Các bài C đưa lên git
+- Các bài HTML, CSS cơ bản (cần làm một website tĩnh có tầm 5 trang)
+ - Trang giới thiệu quán 
+ - Trang giới thiệu món ăn
+ - Kích vào món ăn thì giới thiệu món ăn
+ - Thông tin liên hệ
+- PHP căn bản.
