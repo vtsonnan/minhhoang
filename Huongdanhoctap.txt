@@ -1,1 +1,5 @@
 Tất cả các bài tập làm được lưu ở đây để mình kiểm tra
+Đây là hướng dẫn sử dụng git
+https://zentalk.vn/threads/hoc-hoi-huong-dan-su-dung-github-toan-tap-tu-a-z.1794/
+đây là video con cần phải xem qua nhé
+https://www.youtube.com/watch?v=1JuYQgpbrW0
