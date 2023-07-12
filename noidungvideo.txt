@@ -1,0 +1,18 @@
+Mở đầu giới thiệu source control ?
+- Source control là chương trình quản lý folder code chung nhằm để hỗ trợ cho nhiều đối tượng làm việc,
+lưu lại code tránh được việc mất code, ...
+Khái niệm về GIT ?
+-Gồm có 3 khái niệm chính: repo, commit, branch.
+ + Repo: là 1 dự án trong đó khi thay, sửa hay xóa file thì được xem như là 1 commit
+ + Commit:khi commit được lưu vào repo thì ta có thể biết ai đang sửa code hay thêm code
+ + Branch: khi ta viết code chỉ 1 nhánh trên máy chủ thì để tránh lẫn lộn ta tạo thêm 1 nhánh nữa, nhánh đó 
+được gọi là branch
+Các lệnh git cơ bản
+-git init: tạo 1 repositories trên máy tính
+-git clone: lấy trên mạng về
+-git pull: đồng bộ trên mạng về máy
+-git add, git commit: thêm, sửa trên máy 
+-git push: đồng bộ trên máy lên repo trên mạng
+-git log
+-git decorate - graph - oneline
+Kiến thức cơ bản khi làm việc nhóm
