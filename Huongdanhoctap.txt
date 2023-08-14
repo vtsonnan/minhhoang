@@ -27,3 +27,4 @@ Tuần 11/7 con phải hoàn thành:
  - Kích vào món ăn thì giới thiệu món ăn
  - Thông tin liên hệ
 - PHP căn bản.
+CON ĐÃ LÀM XONG PHẦN NÀO THÌ COMIT CODE LÊN CÒN CẦN GẶP CHÚ ĐỂ TRAO ĐỔI THÌ MẠNH DẠNG ĐẶT LỊCH VỚI CHÚ CON NHÉ.
