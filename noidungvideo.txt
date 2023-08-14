@@ -16,3 +16,4 @@ Các lệnh git cơ bản
 -git log
 -git decorate - graph - oneline
 Kiến thức cơ bản khi làm việc nhóm
+Con cần tìm hiểu kĩ hơn về các lệnh và ý nghĩa của các lệnh để sau này còn gở rối khi bị conflig code con nhé.
